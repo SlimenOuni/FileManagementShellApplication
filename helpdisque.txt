@@ -1,0 +1,13 @@
+For operation, you must always add one of the arguments below to activate the desired function:
+-h: To display detailed help from a text file
+-g: To display a textual menu and manage features in a
+GUI(Using YAD).
+-v: To display the name of the authors and the version of the code.
+-j: create log file of deleted files
+-c: compress a file that size exceed 100KB
+-s: delete a file that size exceed 100KB
+-p: browse files to delete or compress that size exceed 100KB
+-l: list files larger than 100kb
+-m: to display a textual menu (in a loop) which allows access to each function
+
+lpscjvhmg
